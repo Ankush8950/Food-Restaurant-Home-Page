@@ -3,7 +3,7 @@
 # **Restaurant food home page** 
 
 # Time to Taken
-> around 1 to 2 hours complet this projact
+> around 1 to 2 hours complete this projact
 
 # [Food Live projact]()
 ![show image](./FoodApp.png)
