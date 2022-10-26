@@ -2,8 +2,8 @@
 [![](https://img.shields.io/badge/MYPORTFOLIO-blue?style=for-the-badge)](https://devloperankush.tk/ 'Link')
 # **Restaurant food home page** 
 
-# Time to Taken
-> around 1 to 2 hours complete this projact
+# Time to Taken complete
+> around 1 to 2 hours complete this project
 
-# [Food Live projact](https://merry-moxie-795fa6.netlify.app)
+# [Food Live project](https://merry-moxie-795fa6.netlify.app)
 ![show image](./FoodApp.png)
